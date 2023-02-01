@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\bin\Debug\net6.0\Scrabble.exe
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\bin\Debug\net6.0\Scrabble.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\bin\Debug\net6.0\Scrabble.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\bin\Debug\net6.0\Scrabble.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\bin\Debug\net6.0\Scrabble.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\Scrabble.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\Scrabble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\Scrabble.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\Scrabble.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\Scrabble.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\refint\Scrabble.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\Scrabble.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\Scrabble.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Scrabble\Scrabble\obj\Debug\net6.0\ref\Scrabble.dll

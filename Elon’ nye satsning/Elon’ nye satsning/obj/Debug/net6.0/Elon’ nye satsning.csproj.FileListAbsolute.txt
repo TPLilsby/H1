@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\Elon’ nye satsning.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\Elon’ nye satsning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\Elon’ nye satsning.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\Elon’ nye satsning.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\Elon’ nye satsning.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\bin\Debug\net6.0\Elon’ nye satsning.exe
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\bin\Debug\net6.0\Elon’ nye satsning.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\bin\Debug\net6.0\Elon’ nye satsning.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\bin\Debug\net6.0\Elon’ nye satsning.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\bin\Debug\net6.0\Elon’ nye satsning.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\Elon’ nye satsning.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\refint\Elon’ nye satsning.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\Elon’ nye satsning.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\Elon’ nye satsning.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Elon’ nye satsning\Elon’ nye satsning\obj\Debug\net6.0\ref\Elon’ nye satsning.dll

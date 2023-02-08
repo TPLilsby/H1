@@ -4,7 +4,11 @@ public class BlackJack
 {
     static void Main(string[] args)
     {
+
+        //1 deck card
         Card[] deck = new Card[52];
+
+        //Array of suits
         string[] suit = { "Hearts", "Diamonds", "Spades", "Clubs" };
 
         byte deckCount = 0;
@@ -57,8 +61,10 @@ public class BlackJack
         //Set's while to true
         bool play = true;
 
+        //While loop
         while (play)
         {
+            //Checks if someone have lost
             if (playerScore > 21)
             {
                 Console.WriteLine("Player lost: " + playerScore);
@@ -69,7 +75,6 @@ public class BlackJack
                 play = false;
             }
 
-            
             if (turn == 0)
             {
                 //Players turn

@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.exe
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\refint\Fordelingshatten.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\ref\Fordelingshatten.dll

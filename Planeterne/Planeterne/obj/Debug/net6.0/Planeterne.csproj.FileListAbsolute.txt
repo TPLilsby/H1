@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\bin\Debug\net6.0\Planeterne.exe
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\bin\Debug\net6.0\Planeterne.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\bin\Debug\net6.0\Planeterne.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\bin\Debug\net6.0\Planeterne.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\bin\Debug\net6.0\Planeterne.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\Planeterne.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\Planeterne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\Planeterne.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\Planeterne.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\Planeterne.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\Planeterne.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\refint\Planeterne.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\Planeterne.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\Planeterne.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Planeterne\Planeterne\obj\Debug\net6.0\ref\Planeterne.dll

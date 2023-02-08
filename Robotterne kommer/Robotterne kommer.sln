@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robotterne kommer", "Robotterne kommer\Robotterne kommer.csproj", "{06E0D733-76E0-4454-B3B4-8D8FCF21B52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E0D733-76E0-4454-B3B4-8D8FCF21B52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E0D733-76E0-4454-B3B4-8D8FCF21B52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E0D733-76E0-4454-B3B4-8D8FCF21B52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E0D733-76E0-4454-B3B4-8D8FCF21B52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94044F5-398A-4078-A26B-1E2C7AD27042}
+	EndGlobalSection
+EndGlobal

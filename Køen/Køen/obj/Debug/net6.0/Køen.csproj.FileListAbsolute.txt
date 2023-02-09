@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\bin\Debug\net6.0\Køen.exe
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\bin\Debug\net6.0\Køen.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\bin\Debug\net6.0\Køen.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\bin\Debug\net6.0\Køen.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\bin\Debug\net6.0\Køen.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\Køen.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\Køen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\Køen.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\Køen.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\Køen.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\Køen.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\refint\Køen.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\Køen.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\Køen.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Køen\Køen\obj\Debug\net6.0\ref\Køen.dll

@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\bin\Debug\net6.0\En tur på biblioteket.exe
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\bin\Debug\net6.0\En tur på biblioteket.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\bin\Debug\net6.0\En tur på biblioteket.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\bin\Debug\net6.0\En tur på biblioteket.dll
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\bin\Debug\net6.0\En tur på biblioteket.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\En tur på biblioteket.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\En tur på biblioteket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\En tur på biblioteket.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\En tur på biblioteket.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\En tur på biblioteket.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\En tur på biblioteket.dll
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\refint\En tur på biblioteket.dll
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\En tur på biblioteket.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\En tur på biblioteket.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\En tur på biblioteket\En tur på biblioteket\obj\Debug\net6.0\ref\En tur på biblioteket.dll

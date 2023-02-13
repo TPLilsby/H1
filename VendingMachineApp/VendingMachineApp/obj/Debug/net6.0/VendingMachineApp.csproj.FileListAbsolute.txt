@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\VendingMachineApp.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\VendingMachineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\VendingMachineApp.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\VendingMachineApp.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\VendingMachineApp.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\bin\Debug\net6.0\VendingMachineApp.exe
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\bin\Debug\net6.0\VendingMachineApp.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\bin\Debug\net6.0\VendingMachineApp.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\bin\Debug\net6.0\VendingMachineApp.dll
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\bin\Debug\net6.0\VendingMachineApp.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\VendingMachineApp.dll
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\refint\VendingMachineApp.dll
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\VendingMachineApp.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\VendingMachineApp.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachineApp\VendingMachineApp\obj\Debug\net6.0\ref\VendingMachineApp.dll

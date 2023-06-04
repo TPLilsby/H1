@@ -10,28 +10,6 @@ public class Program
         //Make the vending machine
         VendingMachine vendingMachine = new VendingMachine();
 
-        #region SODA QUEUE
-
-        //Queue for soda's
-        Queue<Soda> sodaQueue = new Queue<Soda>();
-
-        foreach (Soda soda in vendingMachine.SodaList)
-        {
-            sodaQueue.Enqueue(soda);
-        }
-        #endregion
-
-        #region CANDY QUEUE
-
-        //Queue for candy
-        Queue<Candy> candyQueue = new Queue<Candy>();
-
-        foreach (Candy candy in vendingMachine.CandyList)
-        {
-            candyQueue.Enqueue(candy);
-        }
-        #endregion
-
         bool run = true;
 
         while (run)
@@ -40,7 +18,7 @@ public class Program
             //Add's all the soda's in the vending machine to a queue
             Console.WriteLine("The soda's:");
 
-            foreach (Soda soda in sodaQueue)
+            foreach (Soda soda in vendingMachine.SodaQueue)
             {
                 Console.WriteLine(soda.Id + ": " + soda.Size + "l | " + soda.Price + " kr.");
             }
@@ -48,17 +26,17 @@ public class Program
             //Add's all the candy in the vending machine to a queue
             Console.WriteLine("\nThe candy:");
 
-            foreach (Candy candy in candyQueue)
+            foreach (Candy candy in vendingMachine.CandyQueue)
             {
                 Console.WriteLine(candy.Id + ": " + candy.Weight + " g - " + candy.Price + " kr.");
             }
 
             //Shows option 1
-            Soda sodaItems = sodaQueue.Peek();
+            Soda sodaItems = vendingMachine.SodaQueue.Peek();
             Console.WriteLine(string.Format("\nOption 1: {0}l | {1}", sodaItems.Size, sodaItems.Price));
 
             //Shows option 2
-            Candy candyItems = candyQueue.Peek();
+            Candy candyItems = vendingMachine.CandyQueue.Peek();
             Console.WriteLine(string.Format("Option 2: {0}g | {1}", candyItems.Weight, candyItems.Price));
 
             Console.Write("What would you like to by? (option 1/1 & option 2/2): ");
@@ -66,43 +44,12 @@ public class Program
 
             if (option == 1)
             {
-
-                Console.WriteLine(Payment(vendingMachine.Soda.Price, sodaQueue));
+                vendingMachine.PaymentSoda(vendingMachine.Soda.Price, vendingMachine.SodaQueue);
             }
             else if (option == 2)
             {
-
+                vendingMachine.PaymentCandy(vendingMachine.Candy.Price, vendingMachine.CandyQueue);
             }
         }
-    }
-
-    public static string Payment(byte price, Queue<Soda> soda)
-    {
-        foreach (Soda soda1 in soda)
-        {
-            soda.Enqueue(soda1);
-        }
-
-        bool paying = true;
-
-        while (paying)
-        {
-            Console.WriteLine("enter money: ");
-            byte money = byte.Parse(Console.ReadLine());
-
-            if (money == price)
-            {
-                return "Item is payed";
-                soda.Dequeue();
-
-                paying = false;
-            }
-            else if (money < price)
-            {
-                return "Paid yo little";
-            }
-        }
-        return null;
     }
 }
-

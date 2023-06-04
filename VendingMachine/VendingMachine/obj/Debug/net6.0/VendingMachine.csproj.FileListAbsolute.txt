@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\VendingMachine.exe
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\VendingMachine.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\VendingMachine.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\VendingMachine.dll
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\VendingMachine.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.dll
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\refint\VendingMachine.dll
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\ref\VendingMachine.dll

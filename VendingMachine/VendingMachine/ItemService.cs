@@ -7,13 +7,14 @@ using System.Threading.Tasks;
 namespace VendingMachine
 {
     //Class for all the items
+    //implment the Item inteface
     internal class ItemService : IItemService
     {
         //List named ItemList for all the items
         List<Item>ItemList = new List<Item>();
 
-        
-        //Item cunstructor
+
+        //Item constructor
         public ItemService() {
 
             //Add all the diffrent items to tthe list ItemList

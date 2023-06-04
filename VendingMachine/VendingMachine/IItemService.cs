@@ -9,7 +9,7 @@ namespace VendingMachine
     //Interface for them itemsd
     internal interface IItemService
     {
-        //Gets all the items
+        //Method named GetAllItems to Get all the items
         List<Item> GetAllItems();
 
         //Kan ikke få den til at vis avaivable items udfra pris så jeg ShowAllItems/GetAllItems

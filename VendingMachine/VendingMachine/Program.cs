@@ -11,6 +11,5 @@ ctrl.ShowMoney(ctrl.InsertMoney());
 //Show all the items
 ctrl.ShowAllItems();
 
-ctrl.SelectItem();
-
-ctrl.ShowSelctedItems();
+//Shows method to select items and show the selected items
+ctrl.ShowSelctedItems(ctrl.SelectItem());

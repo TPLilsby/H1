@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace VendingMachine
 {
+    //Enum named BrandEnum, for brand names
     internal enum BrandEnum
     {
+        //Diffrent brands
         FaxeKondi,
         CocaCola,
         Kims,

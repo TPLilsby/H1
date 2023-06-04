@@ -10,7 +10,7 @@ namespace VendingMachine
     //implment the GUI inteface
     internal class GuiService : IGuiService
     {
-        //GUI Cunstrutor
+        //GUI constructor
         public GuiService() { }
         
         //Insert money

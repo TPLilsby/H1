@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Z95OiegIGSt67ABMPm6TST6kG8NuLm1O9RrNXSv1SbfHWp9LSAJkWuw6fbkDBISbmbi2Pp6iEcaAlAoiQ96pLA==",
+  "dgSpecHash": "VAGg7+NDOIg8g16xl4bTFb8tYyszxfQJPOolNe4Pl0UIp4xHAQnaB8NsZUI22ZtZdTk3KxfRa2MykcrFiqvVDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zbctoli\\Documents\\GitHub\\H1\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zbctoli\\.nuget\\packages\\ado.net.client.annotations\\1.2.0\\ado.net.client.annotations.1.2.0.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\ado.net.client.core\\1.4.5\\ado.net.client.core.1.4.5.nupkg.sha512"
+  ],
   "logs": []
 }

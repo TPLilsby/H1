@@ -7,8 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "VendingMachine/1.0.0": {
+        "dependencies": {
+          "ADO.Net.Client.Core": "1.4.5"
+        },
         "runtime": {
           "VendingMachine.dll": {}
+        }
+      },
+      "ADO.Net.Client.Annotations/1.2.0": {
+        "runtime": {
+          "lib/net6.0/ADO.Net.Client.Annotations.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "ADO.Net.Client.Core/1.4.5": {
+        "dependencies": {
+          "ADO.Net.Client.Annotations": "1.2.0"
+        },
+        "runtime": {
+          "lib/net6.0/ADO.Net.Client.Core.dll": {
+            "assemblyVersion": "1.4.5.0",
+            "fileVersion": "1.4.5.0"
+          }
         }
       }
     }
@@ -18,6 +40,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "ADO.Net.Client.Annotations/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UZsCQ6xAM+k4TLmP7Sa0q6wY5wM9wam8P812V7kOAYN909iOUWH+XWlQXgH3MSLDo66CERVnKSzk2/Gxmm12zw==",
+      "path": "ado.net.client.annotations/1.2.0",
+      "hashPath": "ado.net.client.annotations.1.2.0.nupkg.sha512"
+    },
+    "ADO.Net.Client.Core/1.4.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jGogSIdeFWCIWq3+goEBlMcZLQCLI0MEnpsq/Xp5AeQeVSi1p4cjMjWmLvOYucjjBjRa1wJuilQ3Zs4UH1ubsg==",
+      "path": "ado.net.client.core/1.4.5",
+      "hashPath": "ado.net.client.core.1.4.5.nupkg.sha512"
     }
   }
 }

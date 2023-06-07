@@ -18,10 +18,10 @@ namespace VendingMachine
         void ShowAllItems();
         
         //Method to select items
-        List<Item> SelectItem();
+        int SelectItem();
 
         //Method to show selected items
-        void ShowSelctedItems();
+        void ShowSelctedItems(int id);
 
         //Kan ikke få den til at vis avaivable items udfra pris så jeg ShowAllItems/GetAllItems
         //void ShowAvaivableItems();

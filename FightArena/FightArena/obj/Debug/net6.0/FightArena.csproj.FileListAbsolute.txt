@@ -1,0 +1,15 @@
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\bin\Debug\net6.0\FightArena.exe
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\bin\Debug\net6.0\FightArena.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\bin\Debug\net6.0\FightArena.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\bin\Debug\net6.0\FightArena.dll
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\bin\Debug\net6.0\FightArena.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\FightArena.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\FightArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\FightArena.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\FightArena.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\FightArena.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\FightArena.dll
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\refint\FightArena.dll
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\FightArena.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\FightArena.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\FightArena\FightArena\obj\Debug\net6.0\ref\FightArena.dll

@@ -36,15 +36,20 @@ namespace VendingMachine
         }
 
         //Select items to buy
-        public List<Item> SelectItem()
+        public int SelectItem()
         {
             return this._guiService.SelectItem();
         }
 
         //Show the selected items
-        public void ShowSelctedItems(List<Item> item)
+        public void ShowSelctedItems(int id)
         {
-            this._guiService.ShowSelectedItem(this._guiService.SelectItem(item));
+            this._guiService.ShowSelectedItem(this._guiService.SelectItem());
+        }
+
+        public void ShowAllItems()
+        {
+            this._guiService.ShowAllItems(this._itemService.GetAllItems());
         }
 
         //Kan ikke få den til at vis avaivable items udfra pris så jeg ShowAllItems/GetAllItems

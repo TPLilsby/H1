@@ -1,11 +1,92 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ADO.Net.Client.Annotations/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ADO.Net.Client.Annotations.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ADO.Net.Client.Annotations.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "ADO.Net.Client.Core/1.4.5": {
+        "type": "package",
+        "dependencies": {
+          "ADO.Net.Client.Annotations": "1.2.0"
+        },
+        "compile": {
+          "lib/net6.0/ADO.Net.Client.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ADO.Net.Client.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ADO.Net.Client.Annotations/1.2.0": {
+      "sha512": "UZsCQ6xAM+k4TLmP7Sa0q6wY5wM9wam8P812V7kOAYN909iOUWH+XWlQXgH3MSLDo66CERVnKSzk2/Gxmm12zw==",
+      "type": "package",
+      "path": "ado.net.client.annotations/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CONTRIBUTING.md",
+        "LICENSE.md",
+        "README.md",
+        "ado.net.client.annotations.1.2.0.nupkg.sha512",
+        "ado.net.client.annotations.nuspec",
+        "icon.png",
+        "lib/net5.0/ADO.Net.Client.Annotations.dll",
+        "lib/net5.0/ADO.Net.Client.Annotations.xml",
+        "lib/net6.0/ADO.Net.Client.Annotations.dll",
+        "lib/net6.0/ADO.Net.Client.Annotations.xml",
+        "lib/netstandard2.0/ADO.Net.Client.Annotations.dll",
+        "lib/netstandard2.0/ADO.Net.Client.Annotations.xml"
+      ]
+    },
+    "ADO.Net.Client.Core/1.4.5": {
+      "sha512": "jGogSIdeFWCIWq3+goEBlMcZLQCLI0MEnpsq/Xp5AeQeVSi1p4cjMjWmLvOYucjjBjRa1wJuilQ3Zs4UH1ubsg==",
+      "type": "package",
+      "path": "ado.net.client.core/1.4.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CONTRIBUTING.md",
+        "LICENSE.md",
+        "README.md",
+        "ado.net.client.core.1.4.5.nupkg.sha512",
+        "ado.net.client.core.nuspec",
+        "icon.png",
+        "lib/net462/ADO.Net.Client.Core.dll",
+        "lib/net462/ADO.Net.Client.Core.xml",
+        "lib/net5.0/ADO.Net.Client.Core.dll",
+        "lib/net5.0/ADO.Net.Client.Core.xml",
+        "lib/net6.0/ADO.Net.Client.Core.dll",
+        "lib/net6.0/ADO.Net.Client.Core.xml",
+        "lib/net7.0/ADO.Net.Client.Core.dll",
+        "lib/net7.0/ADO.Net.Client.Core.xml",
+        "lib/netstandard2.0/ADO.Net.Client.Core.dll",
+        "lib/netstandard2.0/ADO.Net.Client.Core.xml",
+        "lib/netstandard2.1/ADO.Net.Client.Core.dll",
+        "lib/netstandard2.1/ADO.Net.Client.Core.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ADO.Net.Client.Core >= 1.4.5"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\zbctoli\\.nuget\\packages\\": {},
@@ -50,6 +131,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "ADO.Net.Client.Core": {
+            "target": "Package",
+            "version": "[1.4.5, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

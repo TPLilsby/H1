@@ -16,3 +16,5 @@ C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net
 C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\ADO.Net.Client.Annotations.dll
 C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\ADO.Net.Client.Core.dll
 C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\obj\Debug\net6.0\VendingMachine.csproj.CopyComplete
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zbctoli\Documents\GitHub\H1\VendingMachine\VendingMachine\bin\Debug\net6.0\Npgsql.dll

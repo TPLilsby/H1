@@ -47,6 +47,10 @@
             "ADO.Net.Client.Core": {
               "target": "Package",
               "version": "[1.4.5, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
             }
           },
           "imports": [

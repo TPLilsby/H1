@@ -86,36 +86,28 @@ namespace VendingMachine
             int inputId = 0;
 
             //Takes input id from user
-            Console.WriteLine("Vælg ID på varen du vil købe");
+            Console.WriteLine("\nVælg ID på varen du vil købe");
             string? input = Console.ReadLine();
 
             if (input != null && int.TryParse(input, out _))
             {
                 //Set input money
                 inputId = int.Parse(input);
-                return inputId;
             } else
             {
                 return SelectItem();
             }
+            return inputId;
         }
 
         //Show the selected items
-        public void ShowSelectedItem(int id)
+        public void ShowSelectedItem( int id)
         {
-            /*
             //Runs through each item in the list
-            foreach (Item item in )
-            {
-                //If the id of item == to the user input id
-                if (item.Id == inputId)
-                {
 
-                }
-            }*/
+                    Console.WriteLine($"Du har valgt: {id.Name}");
+               
             
-            //Print the name of the item
-            Console.WriteLine($"Du har valgt: {id}");
         }
 
         //Kan ikke få den til at vis avaivable items udfra pris så jeg ShowAllItems/GetAllItems

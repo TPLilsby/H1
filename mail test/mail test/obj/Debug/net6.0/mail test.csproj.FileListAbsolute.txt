@@ -1,0 +1,37 @@
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\appsettings.json
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\mail test.exe
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\mail test.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\mail test.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\mail test.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\mail test.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\MailKit.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\MimeKit.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\staticwebassets\msbuild.mail test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\staticwebassets\msbuild.build.mail test.props
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.mail test.props
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.mail test.props
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\scopedcss\bundle\mail test.styles.css
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.csproj.CopyComplete
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\refint\mail test.dll
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\mail test.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\mail test\mail test\obj\Debug\net6.0\ref\mail test.dll

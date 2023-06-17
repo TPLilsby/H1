@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "YvC0EWzy7z+5N5Ss/vGTZ8QpV7WAaIE3go4ZRxomjY3vlODj1c3FMdYsrGwv6+LRM23xWY/UD/QcZ+6C1/1JPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zbctoli\\Documents\\GitHub\\H1\\Portofolio hjemmeside\\Portofolio hjemmesideCSharp\\Portofolio hjemmesideCSharp\\Portofolio hjemmesideCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zbctoli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\zbctoli\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

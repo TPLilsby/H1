@@ -1,0 +1,33 @@
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\appsettings.json
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Portofolio hjemmesideCSharp.exe
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Portofolio hjemmesideCSharp.deps.json
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Portofolio hjemmesideCSharp.runtimeconfig.json
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Portofolio hjemmesideCSharp.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Portofolio hjemmesideCSharp.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.csproj.AssemblyReference.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.AssemblyInfoInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.AssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\staticwebassets\msbuild.Portofolio hjemmesideCSharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\staticwebassets\msbuild.build.Portofolio hjemmesideCSharp.props
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portofolio hjemmesideCSharp.props
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portofolio hjemmesideCSharp.props
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\scopedcss\bundle\Portofolio hjemmesideCSharp.styles.css
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.csproj.CopyComplete
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\refint\Portofolio hjemmesideCSharp.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.pdb
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.genruntimeconfig.cache
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\ref\Portofolio hjemmesideCSharp.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Npgsql.dll

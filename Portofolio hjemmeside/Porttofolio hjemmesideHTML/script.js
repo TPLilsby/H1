@@ -18,8 +18,8 @@ $(document).ready(function() {
         url: "https://localhost:7073/GetProject"
     }).then(function(data) {
         for (i = 0; i < data.length; i++) {
-            $('#project').append('<h1 class="pt-4">' + data[i].title + '</h1>');
-            $('#project').append('<h4>' + data[i].description + '</h4>');
+            $('#project').append('<h1 class="pt-4 text-resize">' + data[i].title + '</h1>');
+            $('#project').append('<h4 text-resize>' + data[i].description + '</h4>');
             $('#project').append('<img class="resize" src="' + data[i].image_path + '">');
             $('#project').append('<a target="_blank" href="' + data[i].github_link + '"><button class="download-button m-lg-4">GitHub Link</button></a>');
         }

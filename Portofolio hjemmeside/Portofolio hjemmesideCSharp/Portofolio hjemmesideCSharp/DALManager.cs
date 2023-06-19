@@ -120,7 +120,7 @@ namespace Portofolio_hjemmesideCSharp
                                 projectList.Add(new Project(reader.GetInt32(0), reader.GetString(1), reader.GetString(2), reader.GetString(3), reader.GetString(4)));
                             }
                         }
-                    }
+                     }
                 }
                 catch (NpgsqlException npg)
                 {

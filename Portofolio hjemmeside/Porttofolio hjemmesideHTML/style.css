@@ -4,6 +4,11 @@
     height: auto;
 }
 
+.text-resize {
+  width: 650px;
+  height: autoh;
+}
+
 /* Body CSS */
 body {
   background-image: url("img/background.png");

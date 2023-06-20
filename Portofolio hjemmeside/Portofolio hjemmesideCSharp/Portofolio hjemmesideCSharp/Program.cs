@@ -9,10 +9,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<DalManager>();
+//DALManager dependency injection
+builder.Services.AddSingleton<DALManager>();
 
 var app = builder.Build();
 
+//Handle CORS
 app.UseCors(builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
 // Configure the HTTP request pipeline.

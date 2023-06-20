@@ -18,7 +18,7 @@ $(document).ready(function() {
         url: "https://localhost:7073/GetTechnology"
     }).then(function(data) {
         for (i = 0; i < data.length; i++) {
-            $('#technology').append('<div class="d-flex justify-content-start "><h4 class="pt-4">' + data[i].name+ '</h4><img class="logo-resize" src="' + data[i].logoPath + '"> </div>');
+            $('#technology').append('<div class="container"> <div class="row"> <div class="col-4"><h4 class="pt-4">' + data[i].name+ '</h4></div> <div class="col-4"> <img class="logo-resize" src="' + data[i].logoPath + '"></div> </div> </div>');
         }
     });
 });
@@ -32,12 +32,12 @@ $(document).ready(function() {
             $('#project').append('<h1 class="pt-4 text-resize">' + data[i].title + '</h1>');
             $('#project').append('<h4 text-resize>' + data[i].description + '</h4>');
             $('#project').append('<img class="resize" src="' + data[i].imagePath + '">');
-            $('#project').append('<a target="_blank" href="' + data[i].githubLink + '"><button class="download-button m-lg-4">GitHub Link</button></a>');
+            $('#project').append('<br><a target="_blank" href="' + data[i].githubLink + '"><button class="button m-lg-4">GitHub Link</button></a>');
         }
     });
 });
 
-// Contact
+// Contact function
 $(document).ready(function () {
     $("#contactform").submit(function (event) {
       var formData = {

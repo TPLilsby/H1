@@ -1,16 +1,20 @@
 ﻿namespace Portofolio_hjemmesideCSharp
 {
+    //Project class
     public class Project
     {
-        public int Id { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
+        //Propaties for the Project class
+        public int Id { get; }
+        public string Title { get; }
+        public string Description { get; }
 
-        public string GithubLink { get; set; }
-        public string ImagePath { get; set; }
+        public string GithubLink { get; }
+        public string ImagePath { get; }
 
+        // Constructor for the Project class
         public Project(int id, string title, string description, string githubLink, string imagePath)
         {
+            ////Assigning values to the properties
             Id = id;
             Title = title;
             Description = description;

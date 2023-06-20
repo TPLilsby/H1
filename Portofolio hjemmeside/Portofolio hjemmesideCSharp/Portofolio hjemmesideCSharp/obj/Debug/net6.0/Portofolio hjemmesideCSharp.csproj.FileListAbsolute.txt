@@ -31,3 +31,11 @@ C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmeside
 C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\Portofolio hjemmesideCSharp.genruntimeconfig.cache
 C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\obj\Debug\net6.0\ref\Portofolio hjemmesideCSharp.dll
 C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\Npgsql.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\MailKit.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\MimeKit.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zbctoli\Documents\GitHub\H1\Portofolio hjemmeside\Portofolio hjemmesideCSharp\Portofolio hjemmesideCSharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

@@ -138,9 +138,9 @@ namespace Portofolio_hjemmesideCSharp
             return projectList;
         }
 
-        public List<Contact> GetContact()
+        public List<Technology> GetTechnology()
         {
-            List<Contact> contactList = new List<Contact>();
+            List<Technology> projectList = new List<Technology>();
 
             using (NpgsqlConnection connection = new NpgsqlConnection(Configuration["ConnectionString"]))
             {
@@ -149,7 +149,7 @@ namespace Portofolio_hjemmesideCSharp
                     using (NpgsqlCommand command = new NpgsqlCommand())
                     {
                         command.Connection = connection;
-                        command.CommandText = "SELECT * FROM getcontact()";
+                        command.CommandText = "SELECT * FROM gettechnology()";
 
                         connection.Open();
 
@@ -157,7 +157,7 @@ namespace Portofolio_hjemmesideCSharp
                         {
                             while (reader.Read())
                             {
-                                contactList.Add(new Contact(reader.GetInt32(0), reader.GetString(1), reader.GetString(2), reader.GetString(3), reader.GetString(4)));
+                                projectList.Add(new Technology(reader.GetInt32(0), reader.GetString(1), reader.GetString(2)));
                             }
                         }
                     }
@@ -175,7 +175,7 @@ namespace Portofolio_hjemmesideCSharp
                     connection.Close();
                 }
             }
-            return contactList;
+            return projectList;
         }
     }
 }

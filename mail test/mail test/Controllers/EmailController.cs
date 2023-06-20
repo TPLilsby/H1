@@ -18,7 +18,7 @@ namespace mail_test.Controllers
             email.From.Add(MailboxAddress.Parse("andre93@ethereal.email"));
             email.To.Add(MailboxAddress.Parse("andre93@ethereal.email"));
             email.Subject = "Test email subject";
-            email.Body = new TextPart(TextFormat.Html) { Text = body };
+            email.Body = new TextPart(TextFormat.Plain) { Text = body };
 
             using var smtp = new SmtpClient();
             smtp.Connect("smtp.ethereal.email", 587, SecureSocketOptions.StartTls);

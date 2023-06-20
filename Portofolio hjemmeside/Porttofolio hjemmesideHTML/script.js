@@ -6,13 +6,24 @@ $(document).ready(function() {
         for (i = 0; i < data.length; i++) {
             $('.cv-title').append(data[i].title);
             $('.cv-description').append(data[i].description);
-            $('#cv-image').attr("src", data[i].image_path)
-            $('#pdf-link').attr("href", data[i].pdf_link);
+            $('#cv-image').attr("src", data[i].imagePath)
+            $('#pdf-link').attr("href", data[i].pdfLink);
         }
     });
 });
 
-//Project
+//Technology function
+$(document).ready(function() {
+    $.ajax({
+        url: "https://localhost:7073/GetTechnology"
+    }).then(function(data) {
+        for (i = 0; i < data.length; i++) {
+            $('#technology').append('<div class="d-flex justify-content-start "><h4 class="pt-4">' + data[i].name+ '</h4><img class="logo-resize" src="' + data[i].logoPath + '"> </div>');
+        }
+    });
+});
+
+//Project function
 $(document).ready(function() {
     $.ajax({
         url: "https://localhost:7073/GetProject"
@@ -20,25 +31,13 @@ $(document).ready(function() {
         for (i = 0; i < data.length; i++) {
             $('#project').append('<h1 class="pt-4 text-resize">' + data[i].title + '</h1>');
             $('#project').append('<h4 text-resize>' + data[i].description + '</h4>');
-            $('#project').append('<img class="resize" src="' + data[i].image_path + '">');
-            $('#project').append('<a target="_blank" href="' + data[i].github_link + '"><button class="download-button m-lg-4">GitHub Link</button></a>');
+            $('#project').append('<img class="resize" src="' + data[i].imagePath + '">');
+            $('#project').append('<a target="_blank" href="' + data[i].githubLink + '"><button class="download-button m-lg-4">GitHub Link</button></a>');
         }
     });
 });
 
-$(document).ready(function() {
-    $.ajax({
-        url: "https://localhost:7073/GetContact"
-    }).then(function(data) {
-        for (i = 0; i < data.length; i++) {
-            $('#contact').append('<h5 class="pt-4">First Name: ' + data[i].first_name + '</h5>');
-            $('#contact').append('<h5>Last Name: ' + data[i].last_name + '</h5>');
-            $('#contact').append('<h5>Email: ' + data[i].email + '</h5>');
-            $('#contact').append('<h5 class=" resize pt-4"> Text: ' + data[i].text + '</h5>');
-        }
-    });
-});
-
+// Contact
 $(document).ready(function () {
     $("#contactform").submit(function (event) {
       var formData = {

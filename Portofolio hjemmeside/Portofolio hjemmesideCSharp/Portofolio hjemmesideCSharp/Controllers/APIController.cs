@@ -1,5 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
+using MimeKit;
+using MimeKit.Text;
 using Portofolio_hjemmesideCSharp;
+using MailKit.Security;
+using MailKit.Net.Smtp;
 
 namespace Portofolio_hjemmesideCSharp.Controllers
 {
@@ -38,17 +42,29 @@ namespace Portofolio_hjemmesideCSharp.Controllers
 
         }
 
-        [HttpGet(Name = "GetContact")]
-        public IEnumerable<Contact> GetContact()
+        [HttpGet(Name = "GetTechnology")]
+        public IEnumerable<Technology> GetTechnology()
         {
-            return _database.GetContact();
-
+            return _database.GetTechnology();
         }
 
         [HttpPost(Name = "SubmitContact")]
         public void SubmitContact(ContactInfo info)
         {
-            Console.WriteLine(info.FirstName);
+            var email = new MimeMessage();
+            email.From.Add(MailboxAddress.Parse(info.Email));
+            email.To.Add(MailboxAddress.Parse("ttlilsby@gmail.com"));
+            email.Subject = "Mail fra Portofolio side";
+            email.Body = new TextPart(TextFormat.Plain) { Text = $" First Name: {info.FirstName}" +
+                $"\n Last Name: {info.LastName}" +
+                $"\n Email: {info.Email}" +
+                $"\n Text: {info.Text}" };
+
+            using var smtp = new SmtpClient();
+            smtp.Connect("smtp.gmail.com", 587, SecureSocketOptions.StartTls);
+            smtp.Authenticate("ttlilsby@gmail.com", "ellribhxraqntizj");
+            smtp.Send(email);
+            smtp.Disconnect(true);
 
         }
     }

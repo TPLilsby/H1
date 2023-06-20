@@ -2,11 +2,22 @@
   .resize {
     width: 400px;
     height: auto;
+    border-radius: 5px;
+    box-shadow: 25px 17px 53px 3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 25px 17px 53px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 25px 17px 53px 3px rgba(0,0,0,0.75);
+}
+
+/* Logo CSS */
+.logo-resize {
+  width: 100px;
+  height: auto;
+  background-image: none;
 }
 
 .text-resize {
   width: 650px;
-  height: autoh;
+  height: auto;
 }
 
 /* Body CSS */
@@ -44,6 +55,7 @@ footer {
     border-radius: 40px;
     box-shadow: 0px 4px 0px #0072ff;
     transition: all 0.2s ease-in-out;
+    font-family: none;
   }
   
   .download-button:hover {
@@ -88,6 +100,7 @@ footer {
 .topnav {
   background-color: #333;
   overflow: hidden;
+  font-family: none;
 
   width: 100%;
   display: inline-block;

@@ -6,16 +6,16 @@
         public string Title { get; set; }
         public string Description { get; set; }
 
-        public string Github_link { get; set; }
-        public string Image_path { get; set; }
+        public string GithubLink { get; set; }
+        public string ImagePath { get; set; }
 
-        public Project(int id, string title, string description, string github_link, string image_path)
+        public Project(int id, string title, string description, string githubLink, string imagePath)
         {
             Id = id;
             Title = title;
             Description = description;
-            Github_link = github_link;
-            Image_path = image_path;
+            GithubLink = githubLink;
+            ImagePath = imagePath;
         }
     }
 }

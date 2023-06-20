@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" modified="2023-06-12T08:10:09.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EtFHaLcdfPIRc7XsuXCE" version="21.3.8" type="device">
+  <diagram name="Side-1" id="6xvWtowjpudz7bgInURT">
+    <mxGraphModel dx="2117" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n51615tUp5IfuTndIBXt-1" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="-120" y="200" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="220" width="184" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="261" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=5;" parent="1" vertex="1">
+          <mxGeometry x="490" y="70" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
+          <mxGeometry x="610" y="34.5" width="133.67" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-6" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=0.425;exitY=-0.027;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="n51615tUp5IfuTndIBXt-2" edge="1">
+          <mxGeometry x="-0.875" y="-20" relative="1" as="geometry">
+            <mxPoint x="250" y="100" as="sourcePoint" />
+            <mxPoint x="320" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="318" y="170" />
+              <mxPoint x="320" y="170" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-8" value="Projects" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="110" y="81" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-9" value="Contact" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="370" y="81" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-10" value="Home" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="240" y="81" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-11" value="See different projects, with name a picture and a link to Github" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-45.5" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.654;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="n51615tUp5IfuTndIBXt-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="80" as="sourcePoint" />
+            <mxPoint x="180" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-13" value="You can see something about who I am and what technologies I am capable of" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-45" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-14" value="You can write a message to and it saves it to the database" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-45.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.551;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="n51615tUp5IfuTndIBXt-10" target="n51615tUp5IfuTndIBXt-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="80" as="sourcePoint" />
+            <mxPoint x="320" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n51615tUp5IfuTndIBXt-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="80" as="sourcePoint" />
+            <mxPoint x="470" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

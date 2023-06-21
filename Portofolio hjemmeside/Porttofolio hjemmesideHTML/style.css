@@ -22,12 +22,6 @@
   background-image: none;
 }
 
-/* Text CSS */
-.text-resize {
-  width: 1100px;
-  height: auto;
-}
-
 /* Body CSS */
 body {
   background-image: url("img/background.png");

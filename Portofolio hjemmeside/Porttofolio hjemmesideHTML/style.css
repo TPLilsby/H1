@@ -130,6 +130,8 @@ footer {
 .topnav img {
   width: 40px;
   height: auto;
+  align-items: center;
+  justify-items: center;
 }
 
 /* Style the links inside the navigation bar */

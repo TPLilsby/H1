@@ -9,17 +9,17 @@ $(document).ready(function() {
         //Loops through the received data and populate the corresponding elements in the HTML
         for (i = 0; i < data.length; i++) {
 
-            //Append the CV title to elements with the class "cv-title"
-            $('.cv-title').append(data[i].title);
+            //Append the CV title to elements with the ID "cv"
+            $('#cv').append('<div class="center"><h1 class="pt-4">' + data[i].title + '</h1></div>');
             
-            //Append the CV description to elements with the class "cv-description"
-            $('.cv-description').append(data[i].description);
+            //Append cv description element with the ID "cv" to the Cv image path
+            $('#cv').append('<h4 class="center">' + data[i].description + '</h4>');
             
-            //Set the source of the image element with the ID "cv-image" to the CV image path
-            $('#cv-image').attr("src", data[i].imagePath);
+            //Append cv image element with the ID "cv" to the Cv image path
+            $('#cv').append('<img class="resize" src="' + data[i].imagePath + '">');
             
-            //Set the href of the element with the ID "pdf-link" to the CV PDF link
-            $('#pdf-link').attr("href", data[i].pdfLink);
+            //Append PDF link with button element with the ID "cv" to the CV PDF link
+            $('#cv').append('<br><a target="_blank" href="' + data[i].pdfLink + '"><button class="button m-lg-4">Download CV</button></a>');
         }
     });
 });
@@ -52,16 +52,16 @@ $(document).ready(function() {
         //Loops through the received data and dynamically generate HTML elements
         for (i = 0; i < data.length; i++) {
 
-            // Append project title
-            $('#project').append('<div class="center text-resize"><h1 class="pt-4">' + data[i].title + '</h1></div>');
+            //Append project title element with the ID "project" to the Project image path
+            $('#project').append('<div class="center"><h1 class="pt-4">' + data[i].title + '</h1></div>');
             
-            // Append project description
-            $('#project').append('<h4 class="text-resize center">' + data[i].description + '</h4>');
+            //Append project description element with the ID "project" to the Project image path
+            $('#project').append('<h4 class="center">' + data[i].description + '</h4>');
             
-            // Append project image element with the ID "project" to the Project image path
+            //Append project image element with the ID "project" to the Project image path
             $('#project').append('<img class="resize" src="' + data[i].imagePath + '">');
             
-            // Append GitHub link with button element with the ID "project" to the GitHub link
+            //Append GitHub link with button element with the ID "project" to the GitHub link
             $('#project').append('<br><a target="_blank" href="' + data[i].githubLink + '"><button class="button m-lg-4">GitHub Link</button></a>');
         }
     });

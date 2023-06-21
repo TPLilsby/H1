@@ -8,6 +8,13 @@
     -moz-box-shadow: 25px 17px 53px 3px rgba(0,0,0,0.75);
 }
 
+/* Image center CSS */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 /* Logo CSS */
 .logo-resize {
   width: 100px;
@@ -17,7 +24,7 @@
 
 /* Text CSS */
 .text-resize {
-  width: 650px;
+  width: 1100px;
   height: auto;
 }
 
@@ -25,6 +32,7 @@
 body {
   background-image: url("img/background.png");
   background-size: cover;
+  text-align: center;
 }
 
 /* Footer CSS */
@@ -34,6 +42,9 @@ footer {
   border-top: 5px solid #0072ff;
   padding-top: 25px;
   padding-bottom: 25px;
+  width: 100%;
+  text-align: left;
+
 }
 
 /* Tech CSS */
@@ -180,4 +191,8 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #333;
   padding: 20px;
+  border-top: solid white;
+  border-left: solid white;
+  border-right: solid white;
+  border-width: thick;
 }

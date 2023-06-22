@@ -1,4 +1,4 @@
-//Cv function
+//Cv GET function
 $(document).ready(function() {
    
     //Send an AJAX request to retrieve CV data from the specified URL: API Endpoint
@@ -24,7 +24,7 @@ $(document).ready(function() {
     });
 });
 
-//Technology function
+//Technology GET function
 $(document).ready(function() {
 
     //Send an AJAX request to retrieve CV data from the specified URL: API Endpoint
@@ -41,7 +41,7 @@ $(document).ready(function() {
     });
 });
 
-//Project function
+//Project GET function
 $(document).ready(function() {
     
     //Send an AJAX request to retrieve CV data from the specified URL: API Endpoint
@@ -67,7 +67,7 @@ $(document).ready(function() {
     });
 });
 
-//Contact function
+//Contact POST function
 $(document).ready(function() {
 
     //Triggered when the contact form is submitted

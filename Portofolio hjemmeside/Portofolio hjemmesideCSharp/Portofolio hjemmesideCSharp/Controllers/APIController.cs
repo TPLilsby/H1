@@ -25,14 +25,14 @@ namespace Portofolio_hjemmesideCSharp.Controllers
         //Constructor for the APIController class
         public APIController(ILogger<APIController> logger, DALManager database)
         {
-            // Assigning the provided ILogger instance to _logger
+            //Assigning the provided ILogger instance to _logger
             _logger = logger;
 
-            // Assigning the provided DALManager instance to _database
+            //Assigning the provided DALManager instance to _database
             _database = database;
         }
 
-        //HTTP POST action method with the name GetCv
+        //HTTP GET action method with the name GetCv
         [HttpGet(Name = "GetCv")]
 
         //Retrieve a list of Cv objects
@@ -43,7 +43,7 @@ namespace Portofolio_hjemmesideCSharp.Controllers
 
         }
 
-        //HTTP POST action method with the name GetProject
+        //HTTP GET action method with the name GetProject
         [HttpGet(Name = "GetProject")]
 
         //Retrieve a list of Project objects
@@ -54,7 +54,7 @@ namespace Portofolio_hjemmesideCSharp.Controllers
 
         }
 
-        // HTTP POST action method with the name GetTechnology
+        // HTTP GET action method with the name GetTechnology
         [HttpGet(Name = "GetTechnology")]
 
         //Retrieve a list of Technology objects
@@ -67,11 +67,16 @@ namespace Portofolio_hjemmesideCSharp.Controllers
         //HTTP POST action method with the name SubmitContact
         [HttpPost(Name = "SubmitContact")]
 
-        //Void method for Submitcontact and makes an object
+        //Void method for SubmitContact and makes an object of contactInfo
         public void SubmitContact(ContactInfo info)
         {
+            //New email message
             var email = new MimeMessage();
+
+            //From email
             email.From.Add(MailboxAddress.Parse(info.Email));
+
+            //To email
             email.To.Add(MailboxAddress.Parse("ttlilsby@gmail.com"));
 
             //Email subject content
